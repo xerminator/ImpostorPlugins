@@ -1,0 +1,7 @@
+{
+    "helpMessage":"type / before your message to use the ImpostorChat, This Text will display in Red.",
+    "rulesMessage":"Rules will be updated into the Game soon.",
+    "timerMessage":"type ?timer to see the timer during a match.",
+    "AnnouncementMessage":"Please ensure all Players are Linked to AutoMuteUs and that the match is started.",
+    "wrongCommandMessage":"Wrong Command, please use one of the following commands: ?timer | ?help | ?rules "
+   }
