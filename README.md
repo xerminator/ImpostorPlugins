@@ -1,0 +1,2 @@
+# ImpostorPlugins
+Impostor Server Plugins
